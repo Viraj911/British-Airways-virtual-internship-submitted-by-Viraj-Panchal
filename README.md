@@ -1,10 +1,13 @@
-# British Airways Booking Dataset Analysis
+# British Airways Data Science Virtual Internship
 
 ## Introduction
 This project is part of the Forage virtual internship program, focusing on the analysis of the British Airways booking dataset. Our goal is to extract meaningful insights and predict booking completions with high accuracy, precision, and recall. We employ a variety of machine learning models and rigorously evaluate their performance to ensure efficacy in our predictive tasks.
 
-## Feature Selection
-We have implemented feature selection techniques to identify the most influential factors contributing to booking completions. This allows us to enhance the interpretability and efficiency of our models, providing British Airways with actionable insights for strategic decision-making.
+## Part 1: Web Scraping and Sentiment Analysis
+The first task of the internship involved web scraping data from websites to gather customer reviews. We then applied sentiment analysis to determine the sentiments of the reviews, categorizing them as positive, negative, or neutral. This analysis provided an initial understanding of customer satisfaction and areas for improvement.
+
+## Part 2: Machine Learning Model Evaluation
+The second task, detailed in this repository, involves further analysis of the booking dataset using machine learning models. We implement feature selection techniques to identify the most influential factors contributing to booking completions. This allows us to enhance the interpretability and efficiency of our models, providing British Airways with actionable insights for strategic decision-making.
 
 ## Model Training and Evaluation
 The Python snippets included in this repository encapsulate our approach to model training, evaluation, and feature selection. These data-driven solutions demonstrate the potential of machine learning in the aviation industry.
